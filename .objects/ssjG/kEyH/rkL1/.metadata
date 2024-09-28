@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Mobiles- Buy Products Online at Best P",
+  "Type": "Screen",
+  "Id": "rkL1GRNJzkqHK-Wg7UQ7sQ",
+  "Reference": "f9C5wlRlr0C3vmwDxx9IYA/rkL1GRNJzkqHK-Wg7UQ7sQ",
+  "ParentRef": "f9C5wlRlr0C3vmwDxx9IYA/kEyH4jXaSEqk3FBJJt3QxA",
+  "Created": "2024-09-28T09:47:06.2468737Z",
+  "Updated": "2024-09-28T09:47:06.2468737Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
